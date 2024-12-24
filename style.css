@@ -1,0 +1,57 @@
+
+#header {
+    background-color: #F0FFF0;
+}
+.custom-button {
+    padding: 8px 25px;
+    border-radius: 20px;
+}
+
+.navbar-nav li a {
+    color: #2D302D;
+}
+.header-bottom-image img{
+    width: 100%;
+    height: auto;
+}
+.row-height {
+    height: 100vh;
+}
+#courses .card {
+    padding-top: 20px;
+    text-align: center;
+    border: none;
+    background: #F8FFFB;
+
+}
+#courses .card img {
+    width: 80px;
+    height: 83px;
+    margin: auto;
+}
+.highlight-card{
+    box-shadow: 2px 2px 7px 3px lightgray;
+}
+#courses {
+    padding: 60px 0px;
+}
+#others .card-footer {
+    border-top: none;
+}
+#others .card-footer img {
+    width: 24px;
+    height: 24px;
+}
+#others .card-footer h5 {
+    color: #413960;
+}
+#others .card {
+    border: none;
+    box-shadow: 0px 0px 20px 0px lightgray;
+}
+.highlight-purple {
+    color: #413960;
+}
+#blog img {
+    width: 100px;
+}
