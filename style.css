@@ -55,3 +55,12 @@
 #blog img {
     width: 100px;
 }
+.col-height {
+    height: 300px;
+}
+.footer-widget-bg {
+    background: #282531;
+}
+.nav li a {
+    color: #fff;
+}
